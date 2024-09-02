@@ -1,4 +1,4 @@
-[PLAY]()
+[PLAY](https://janvihatwar.github.io/Rock_Paper_Scissor_Game/)
 
 # Overview
 This is a simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript. The game is a digital version of the classic hand game, where you play against the computer. The goal is to choose a move that defeats the computer's choice, following the rules:
